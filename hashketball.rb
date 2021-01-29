@@ -2,14 +2,14 @@ def game_hash
   game_stats = {
     :home => {
       :team_name => "",
-      :colors => []
+      :colors => [],
       :players => [
         
         ]
     }, 
     :away => {
       :team_name => "",
-      :colors => []
+      :colors => [],
       :players => [
         
         ]
