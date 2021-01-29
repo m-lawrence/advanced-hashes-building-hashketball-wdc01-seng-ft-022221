@@ -1,3 +1,3 @@
 def game_hash
-  game_stats = {}
+  game_stats = {:home => {}, :away => {}}
 end
